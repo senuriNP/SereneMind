@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MADlab2</string>
+    <string name="track_your_mood_today">Track your mood today</string>
+    <string name="guided_meditation_sessions">Guided meditation sessions</string>
+    <string name="let_s_journal">Let\'s journal</string>
+    <string name="edit">Edit</string>
+    <string name="serenemind">SereneMind</string>
+    <string name="home">Home</string>
+    <string name="quote">Quote</string>
+    <string name="aims">Aims</string>
+    <string name="calls">Calls</string>
+    <string name="start_writing">Start writing..,</string>
+    <string name="let_s_journal_">Let\'s Journal</string>
+    <string name="meditation_sessions">Meditation Sessions</string>
+    <string name="next">Next</string>
+    <string name="guided_meditation">Guided meditation</string>
+    <string name="next1">Next</string>
+    <string name="mood_tracking">Mood tracking</string>
+    <string name="get_started"><![CDATA[Get Started >]]></string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="contact">Contact</string>
+    <string name="nic">NIC</string>
+    <string name="country">Country</string>
+    <string name="rate_your_mood">Rate your mood</string>
+    <string name="aims1">Aims</string>
+    <string name="calls1">Calls</string>
+    <string name="serenemind1">SereneMind</string>
+    <string name="home1">Home</string>
+    <string name="quote1">Quote</string>
+    <string name="aims2">Aims</string>
+    <string name="calls2">Calls</string>
+    <string name="serenemind2">SereneMind</string>
+
+</resources>
